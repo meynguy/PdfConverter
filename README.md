@@ -13,3 +13,5 @@ This is a simple web API application that converts HTML content to PDF using Pup
 
    ```bash
    git clone https://github.com/meynguy/PdfConverter.git
+
+[![How to use?](http://img.youtube.com/vi/XtJ9di75rxA/0.jpg)](http://www.youtube.com/watch?v=XtJ9di75rxA)
